@@ -35,7 +35,11 @@ ui <- fluidPage(
       tags$div(
         style = "font-size: 14px;",
         tags$ul(
-          tags$li("中华医学会心血管病学分会, 海峡两岸医药卫生交流协会高血压专业委员会, 中国康复医学会心血管疾病预防与康复专业委员会. 中国高血压临床实践指南[J]. 中华心血管病杂志, 2024, 52(9): 985-1032.")
+          tags$li("中华医学会心血管病学分会，中华心血管病杂志编辑委员会. 经皮去肾交感神经术治疗高血压专家建议. 中华心血管病杂志，2025，53(01):6-15. DOI:10.3760/cma.j.cn112148-20240905-00513"),
+          tags$li("李月平.经皮去肾神经术治疗高血压临床路径中国专家共识（2025版）[J].中国介入心脏病学杂志,2025,v.33;No.242(09):481-490"),
+          tags$li("中华医学会心血管病学分会, 海峡两岸医药卫生交流协会高血压专业委员会, 中国康复医学会心血管疾病预防与康复专业委员会. 中国高血压临床实践指南[J]. 中华心血管病杂志, 2024, 52(9): 985-1032."),
+          tags$li("Jones DW, Ferdinand KC, Taler SJ, et al. 2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. Published online May 7, 2025. https://doi.org/10.1016/j.jacc.2025.05.007."),
+          tags$li("McEvoy JW, McCarthy CP, Bruno RM, et al. 2024 ESC Guidelines for the management of elevated blood pressure and hypertension. Eur Heart J. 2024;ehae178. doi: 10.1093/eurheartj/ehae178.")
         )
       )
     ),
